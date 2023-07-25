@@ -4,6 +4,7 @@ version = "0.0.7"
 edition = "2021"
 license = "MIT"
 description = "a simple lib for file system, input and output"
+repository = "https://github.com/KByys/iofs"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 
